@@ -5,7 +5,6 @@ This script simoply creates a pair of keys for every user in a server. The way i
 creating a "Vault". This corresponds to every server that is going to handle the connection.
 
 Usage
-'''
-  vault.sh <ssh_user> <server_fqdn_or_ip> <ssh_remote_port> <vault_name>
 
-'''
+vault.sh <ssh_user> <server_fqdn_or_ip> <ssh_remote_port> <vault_name>
+
